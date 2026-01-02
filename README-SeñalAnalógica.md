@@ -42,7 +42,6 @@ El shader se basa en la manipulación dinámica de las coordenadas UV y la sínt
 
 ---
 
-**Entregado por:** [Tu Nombre]  
-**Curso:** [Nombre de la Asignatura]  
-**Institución:** [Nombre de la Universidad]  
-**Fecha:** Enero 2026
+**Autor:** Francisco Malillos Castellano
+**Materia:** Informática Gráfica 
+**Año:** 2026
