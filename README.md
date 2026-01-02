@@ -48,6 +48,6 @@ Para ejecutar este código, puedes utilizar el editor online de **The Book of Sh
 
 ---
 
-**Autor:** [Tu Nombre]  
-**Materia:** Computación Gráfica / Programación de GPU  
+**Autor:** Francisco Malillos Castellano
+**Materia:** Informática Gráfica 
 **Año:** 2026
